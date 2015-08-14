@@ -7,7 +7,9 @@ Advantage of Inner class:
 Note: outter class cannot access inner class derectly. We can create a new object of inner class and then access its method.
 
 types of Inner class:
+
 Member Inner Class/成员内部类:
+
 1、 Inner 类可以使用任意访问控制符，如 public 、 protected 、 private 等
 
 2、 method in Inner class can access the field in Outter class even if it's private.

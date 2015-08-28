@@ -12,7 +12,7 @@ Advantage of Inner class:
 
 types of Inner class:
 
-    Member Inner Class/成员内部类:
+   Member Inner Class/成员内部类:
 
       1、 Inner 类可以使用任意访问控制符，如 public 、 protected 、 private 等
 

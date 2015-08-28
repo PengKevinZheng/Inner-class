@@ -32,10 +32,12 @@ types of Inner class:
       3. Create the inner class object, just use constructor directly without outer class: Inner obj = new Inner();
 
    Method-Local Inner Classes
+   
       1. it can be only used in the method
 
 
    Anonymous Classes
+   
       1. Anonymous classes enable you to make your code more concise. 
 
       HelloWorld frenchGreeting = new HelloWorld() {

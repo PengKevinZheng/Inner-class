@@ -27,7 +27,7 @@ types of Inner class:
 
       1. static nested class cannot access the non-static field directly, but can use: new Outer().field.
 
-      2. If name of static field of outer class is same as the field of inner class, in the method of inner class, we can              use:outer.staticfield; If not same, we can access the field directly.
+      2. If name of static field of outer class is same as the field of inner class, in the method of inner class, we can                 use:outer.staticfield; If not same, we can access the field directly.
 
       3. Create the inner class object, just use constructor directly without outer class: Inner obj = new Inner();
 

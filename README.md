@@ -1,6 +1,6 @@
 # Inner-class
 
-    Advantage of Inner class:
+Advantage of Inner class:
 
       1.Better encapsulation. Innver class can only be accessed by its outer class. The other classes in the package cannot           access this inner class.
 
